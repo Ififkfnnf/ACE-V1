@@ -3,9 +3,9 @@
     "description": "ANUSER - Whatsapp Bot",
     "logo": "https://i.ibb.co/mzS0HXx/ANUSER-2.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/Ififkfnnf/ACE-V1",
+    "website":   "https://github.com/Ififkfnnf/ACE-V1",
+    "success_url": "https://github.com/Ififkfnnf/ACE-V1",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
